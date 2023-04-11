@@ -10,7 +10,9 @@ Bees play a crucial role in our ecosystem by pollinating plants and producing ho
 
     - Honey bees are generally tan and yellow and have a smooth appearance
     * Another major difference is that honey bees can sting only once as their stinger is barbed and comes out after stinging
-  
+  - George Washington
+* John Adams
++ Thomas Jefferson
 2.Bumble bees
 
     -Bumblebees are black and fuzzy with either yellow or orange markings
