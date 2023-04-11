@@ -1,5 +1,5 @@
 <p align="center">
-<b> ## Predicting-Bee-Species-from-Images-using-Naive-Methods</b>
+<b> **Predicting-Bee-Species-from-Images-using-Naive-Methods**</b>
 </p>
 
 <p align="center">
