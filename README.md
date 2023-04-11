@@ -1,4 +1,5 @@
 # Bee Species Identification from Images using Deep learning
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/48359677/231091776-73c4ca75-1cf1-4acc-837b-cdad2c414e09.PNG"/>
 </p>
@@ -6,10 +7,12 @@
 Bees play a crucial role in our ecosystem by pollinating plants and producing honey. However, different bee species have distinct physical features, making it a challenging task to identify them from images. Honey bees and bumblebees have noticeable differences in appearance, such as color and texture. Additionally, honey bees can only sting once, while bumblebees can sting multiple times due to their smooth stinger. By understanding these differences, we can improve our model's accuracy and ensure reliable bee species identification.
 
 1.Honey bees
+
     - Honey bees are generally tan and yellow and have a smooth appearance.
     * Another major difference is that honey bees can sting only once as their stinger is barbed and comes out after stinging.
    
 2.Bumble bees
+
     - Bumblebees are black and fuzzy with either yellow or orange markings
     * Bumblebees are also generally much larger than honey bees
     + Also, the bumblebee has a smooth stinger and can sting multiple times
