@@ -25,7 +25,7 @@ Our project is part of a series that focuses on working with image data and buil
 
 The data is in the Excel file named Honey_Bumble_Bees.xlsx, which contains 2 columns: Image_id and Type.
 
-Image_id: refers to the ID of the bee image.
-Type: indicates the type of bee. Type takes the value of 0.0 (Apis or honey bee) or 1.0 (Bombus or bumble bee).
+index: refers to the ID of the bee image.
+genus: indicates the type of bee. Type takes the value of 0.0 (Apis or honey bee) or 1.0 (Bombus or bumble bee).
 
 The total size is 1,654 images, with 827 for each type of bee.
