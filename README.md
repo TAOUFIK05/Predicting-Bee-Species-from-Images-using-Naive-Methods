@@ -1,7 +1,7 @@
 <p align="center">
-
-## Predicting-Bee-Species-from-Images-using-Naive-Methods
+<b> ## Predicting-Bee-Species-from-Images-using-Naive-Methods</b>
 </p>
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/48359677/231085657-5996f51f-d937-4d5b-b599-5e2d29e6c5ff.jpg"/>
 </p>
