@@ -1,3 +1,4 @@
+
 ![1-Honey-Bee-001](https://user-images.githubusercontent.com/48359677/231084593-be63703f-5ed1-4cb1-9b60-0dd7cb466074.jpg)
 
 # Predicting-Bee-Species-from-Images-using-Naive-Methods
