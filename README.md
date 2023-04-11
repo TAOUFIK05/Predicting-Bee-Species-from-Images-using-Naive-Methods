@@ -21,11 +21,11 @@ This notebook walks through building a simple deep learning model that can autom
 
 Our project is part of a series that focuses on working with image data and building classifiers using traditional methods and deep learning techniques for computer vision. By accurately identifying bee species from images, we can help researchers collect field data more efficiently and effectively.
 
-# Libraries
+# Data
 
-First, we need to import the Python libraries with which we will work.
+The data is in the Excel file named Honey_Bumble_Bees.xlsx, which contains 2 columns: Image_id and Type.
 
-Import the class Image from the library PIL.
-Import the function train_test_split from the model_selection module of sklearn.
-Import the function SVC from the svm module of sklearn. This is the model we'll use.
-Import the function accuracy_score from the metrics module of sklearn. This is the metric we'll use.
+Image_id: refers to the ID of the bee image.
+Type: indicates the type of bee. Type takes the value of 0.0 (Apis or honey bee) or 1.0 (Bombus or bumble bee).
+
+The total size is 1,654 images, with 827 for each type of bee.
