@@ -14,7 +14,6 @@ Besides the honey that some produce, the pollination of flowers and plants is es
 
     - Honey bees are generally tan and yellow and have a smooth appearance
     * Another major difference is that honey bees can sting only once as their stinger is barbed and comes out after stinging
-
 2.Bumble bees
 
     - Bumblebees are black and fuzzy with either yellow or orange markings
